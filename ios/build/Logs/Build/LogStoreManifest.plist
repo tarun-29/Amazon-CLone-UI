@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>3AFD0BEE-B129-4A23-835F-6D20CB18161A</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3AFD0BEE-B129-4A23-835F-6D20CB18161A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>amazon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>amazon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project amazon with scheme amazon and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>569864060.60610604</real>
+			<key>timeStoppedRecording</key>
+			<real>569864063.12824702</real>
+			<key>title</key>
+			<string>Building project amazon with scheme amazon and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>3AFD0BEE-B129-4A23-835F-6D20CB18161A</string>
+		</dict>
+		<key>9D196386-B42F-4A12-9BB0-ABAC14BA2075</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9D196386-B42F-4A12-9BB0-ABAC14BA2075.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>amazon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>amazon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project amazon with scheme amazon and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>569788388.48143899</real>
+			<key>timeStoppedRecording</key>
+			<real>569788391.60283303</real>
+			<key>title</key>
+			<string>Building project amazon with scheme amazon and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>9D196386-B42F-4A12-9BB0-ABAC14BA2075</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
